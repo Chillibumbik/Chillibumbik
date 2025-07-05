@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillibumbik&show_icons=true&theme=radical&include_all_commits=true)
+
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chillibumbik&layout=compact&langs_count=6&theme=tokyonight)
 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chillibumbik&show_icons=true&theme=radical&include_all_commits=true)
+
 
 
 
